@@ -1,6 +1,5 @@
 ### Here is what i am working on 
 
-Here are some things about me :
 
 - 🔭 I’m currently studying at AOU...
 - 🌱 I’m currently learning Django framework...
